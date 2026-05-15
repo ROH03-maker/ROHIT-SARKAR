@@ -22,7 +22,7 @@ export default function About() {
           >
             <div className="relative z-10 rounded-2xl overflow-hidden glow-border aspect-square">
               <img
-                src="MAIN PIC.jpeg"
+                src="/MAIN PIC.jpeg"
                 alt="AI Neural Network"
                 className="w-full h-full object-cover transition-all duration-700"
                 referrerPolicy="no-referrer"

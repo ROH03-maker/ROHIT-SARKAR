@@ -5,7 +5,7 @@ const clientProjects = [
   {
     title: "Anamika Roy Portfolio",
     category: "Professional Production",
-    image: "PHOTO.png",
+    image: "/PHOTO.png",
     desc: "A bespoke digital showcase for traditional mehendi artistry and artisanal wool crafts. Built with high-performance optimization and custom aesthetics.",
     tags: ["Vercel", "Professional", "Lifestyle"],
     data: "PROD_REL_01",

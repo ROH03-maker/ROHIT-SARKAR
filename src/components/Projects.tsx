@@ -5,7 +5,7 @@ const projects = [
   {
     title: "AEGIS AI Assistant",
     category: "AI & Automation",
-    image: "aegis logo.png",
+    image: "/aegis logo.png",
     desc: "A multimodal AI agent capable of managing complex business workflows and voice interaction.",
     tags: ["Gemini", "Node.js", "React"],
     size: "large",
@@ -15,7 +15,7 @@ const projects = [
   {
     title: "Cyber-Pulse Dashboard",
     category: "Futuristic UI",
-    image: "ChatGPT Image May 15, 2026, 01_51_57 PM.png",
+    image: "/ChatGPT Image May 15, 2026, 01_51_57 PM.png",
     desc: "Real-time biometric monitoring system with holographic visualizers.",
     tags: ["Three.js", "GSAP", "Socket.io"],
     size: "small",
@@ -25,7 +25,7 @@ const projects = [
   {
     title: "Neural-Loom",
     category: "Automation",
-    image: "ChatGPT Image May 15, 2026, 01_43_29 PM.png",
+    image: "/ChatGPT Image May 15, 2026, 01_43_29 PM.png",
     desc: "Autonomous content generation engine for high-end digital brands.",
     tags: ["Python", "OpenAI", "Firebase"],
     size: "small",
