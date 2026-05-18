@@ -10,7 +10,7 @@ const projects = [
     tags: ["Gemini", "Node.js", "React"],
     size: "large",
     data: "CORE_PROCESS_0x1A",
-    link: "https://aegis-v3-1.vercel.app/",
+    link: "https://rohit-sarkar-3dja.vercel.app/",
   },
   {
     title: "Cyber-Pulse Dashboard",
