@@ -30,7 +30,7 @@ const projects = [
     tags: ["Python", "OpenAI", "Firebase"],
     size: "small",
     data: "GEN_V3_ACTIVE",
-    link: "#",
+    link: "https://neural-loom.vercel.app/",
   },
   {
     title: "Project Orion",
