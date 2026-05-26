@@ -30,7 +30,7 @@ A futuristic AI-inspired voice assistant built inside a website environment with
 A modern portfolio website created to showcase my profile, skills, and projects.
 
 🔗 Live Demo: [ https://rohit-sarkar-3dja.vercel.app/ ]
-🔗 GitHub Repository: [ Add GitHub Repo Link Here ]
+🔗 GitHub Repository: [ https://github.com/ROH03-maker/ROHIT-SARKAR.git ]
 
 ---
 
