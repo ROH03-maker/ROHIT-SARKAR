@@ -17,7 +17,7 @@ I believe learning becomes more powerful when ideas are turned into practical pr
 A modern portfolio website created to showcase my profile, skills, and projects.
 
 🔗 Live Demo: https://rohit-sarkar-3dja.vercel.app/ 
-🔗 GitHub Repository: https://github.com/ROH03-maker/ROHIT-SARKAR.git 
+🔗 GitHub Repository: https://github.com/Rohitsarkarcodes/ROHIT-SARKAR 
 
 ---
 
