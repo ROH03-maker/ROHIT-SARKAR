@@ -12,7 +12,7 @@ I enjoy building modern websites, experimenting with UI design, and creating int
 
 I believe learning becomes more powerful when ideas are turned into practical projects. Most of my projects are built while learning, experimenting, making mistakes, and improving through experience.
 
-## Personal Portfolio Website
+# Personal Portfolio Website
 
 A modern portfolio website created to showcase my profile, skills, and projects.
 
