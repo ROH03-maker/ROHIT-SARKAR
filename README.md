@@ -43,6 +43,16 @@ Through Neural Loom, I experimented with responsive design, interface structure,
 
 ---
 
+## 3. Project Orion
+
+Project Orion is a modern web-based project created to explore futuristic interface design, interactive user experience, and creative development concepts. The idea behind Orion was to build a visually engaging and smooth digital experience that combines clean UI with modern technological aesthetics.
+This project helped me improve my frontend development workflow, design thinking, and practical problem-solving skills while working on responsive layouts and interactive components.
+
+🔗 Live Demo: [ ]
+🔗 GitHub Repository: [ Add GitHub Repo Link Here ]
+
+---
+
 ## 4. Mehendi & Wool Gajra Showcase Website
 
 A creative website built to showcase handmade mehendi designs and wool gajra artwork in an elegant and aesthetic way.
